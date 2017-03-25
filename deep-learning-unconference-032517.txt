@@ -1,0 +1,67 @@
+Google Deep Learning Unconference in Google Launchpad 301 Howard Street 03/25/17 
+
+Breakout session
+
+Suggestion to take the use case of one participant.
+Randy from Hammerheard - algorithmic training for cyclists that works out a 
+training plan and recovery.
+Cycling because it has the most data, the cyclists were the first ones to start 
+wearing wearable technology that collects that data.
+
+How do you measure how good your models are? He's in investigation mode still, 
+and aproduct role.
+
+Reevo is a competitor that tries to achieve the same goal, but not only for 
+cyclists.
+
+Time series in combination with image analysis. Machine learning can figure out
+what is meaningful. You can cluster together text, it doesn't need to be
+images. Using deep learning for regression, not classification (e.g. get a
+number as an output instead of categoriation). 
+
+You don't want to constrain yourself with a use base and use case that you only
+initially imagined. 
+
+RapidCFO
+Receipt recognition and expense report automation. Their main problem is
+acquiring data so that they can recognize receipts. They have two datasets that
+they are using to create machine learning models. Tax laws change every year, 
+hundreds of pages of changes. They save 2000 to 3000 USD per user in saved time
+and it's worth using it. They connect to a bank account. There are specific
+usecass that people care about, "do you want to automatically upload it to your
+accounting software", some people want to email it manually. Right now there is
+still a person in the loop for security reasons.
+
+What is the best way to collect data on trust as an emotion?
+Financial institutions have low trust - as soon as you start to write something
+e.g. in a blog, it would automatically get a trust score. It's a Chrome plugin.
+It's going after specific emotions like confidence or trust, not
+positive/negative. You'd need to do manual labeling at first. Just using text,
+no audio input. You need to understand who your audience is, otherwise it's
+hard to develop the product. Boomerand Respondible - GMail plugin. There is
+probably some emotion that is associated with a high trust. Success measured by
+conversion rates, click rates. Time of day the message is delivered could be
+important. glean.info emoji everything, connection with Facebook. 
+
+Are emotions deterministic? If they are not, what tools do we have? Otherwise
+it's easy to use. Time series data for models over four different series. If
+it's arbitrary, you can't use that model. 
+
+Reddit comments could be a good dataset for training model. It would be hard to
+find the relevant data in the Reddit comments, it's very noisy. Cora has
+written a relevant aricle. You can see it in action in cora when you type a
+question there. 
+
+Deep learning models for security selection, interpretability.
+Given a set of imputs, give data and rationalize instead of acting like a black
+box. You want to know what is the basis of the decision. Explaining to your
+client why this happened and what has been changed that the algorithm will not
+underperform in this specific situation again as regressions will happen.
+
+Numeri has homomorphic encryption. Build out natural language understanding
+piece and focus on a smaller set of clients to get their need. Brian Uzzi. As
+long as the product performs better than anything else in the market, it's
+great, but as soon as it doesn't, people get scared as they don't know if it
+just had a bad moment or the algorithm is fundamentally broken.
+
+  
