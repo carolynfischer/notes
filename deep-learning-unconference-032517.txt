@@ -1,4 +1,28 @@
 Google Deep Learning Unconference in Google Launchpad 301 Howard Street 03/25/17 
+Medicine needs deep learning to support world's medicine needs, especially in
+developing countries. Check out the deep learning library and see if you can
+upload pictures and copy the style of one to the other. Deep features to
+classify skin lesions. AI can now complete areas that are missing in a picture.
+Noodle Doodles - you create basic layout of a picture and out comes a painting.
+Google Deepmind Blog - the AI reduced datacenter's cooling bill by 40%.
+Fast.ai's 7 week deep learning course, free. Netflix's suggestion algorithm's
+performance flattens out just below 0.8 probability after a while. TEDx talk:
+"the wonderful and terrifying implications of computers that can learn".
+Embedding rejector by Google. Pretrained model imagenet. Only need to label a
+few of the correct images of a class, but already based on that data the neural
+net is able to reclassify the data. COURSE: "PRACTICAL DEEP LEARNING FOR
+CODERS". Sequence to sequence language models, like tranlation. Is a tweet
+offensiv or not for example. Cafe is th program/library that he was using for
+the demo. Classification of different car angles and parts. Visualised in a 3D
+model. 70 hours to do through the course. Understand the capabilities and
+strengths of the technology. The course has 2 parts, first is best practices,
+second deals more with academic papers. Very few edges are being scratched with
+deep learning at this point yet, there are many possibilities. The goal just
+now shouldn't be fully automating yet, but supporting the human. Book
+"Designing great data products", talks about predictive modeling. Generative
+model - the output is a whole new thing - picture, painting, piece of music
+etc. Computer vision is huge, language not yet (chatbots included), but one day
+it will be.
 
 Breakout session
 
